@@ -71,8 +71,8 @@ a:hover{
 
 section img{
     display: block;
-    width: 792px;
-    height: 446px;
+    width: 375px;
+    height: 600px;
     margin: 0 auto;
 }
 
@@ -104,8 +104,8 @@ header img{
         width: 340px;
     }
     section img{
-        width: 340px;
-        height: 230px;
+        width: 200px;
+        height: 300px;
     }
     a{
         font-size: 20px;
